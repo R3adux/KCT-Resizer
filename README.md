@@ -10,9 +10,9 @@ Installation:
 
     Download the latest .zip from the Releases section (or SpaceDock).
 
-    Extract the ReaduxAddition folder into your KSP GameData directory.
+    Extract the RA folder into your KSP GameData directory.
 
 Dependencies:
 
-    none (just RP-1)
+    Kerbal Construction Time (KCT) & Harmony (both included in RP-1 installation)
 <img width="1100" height="1500" alt="KCT-Resizer" src="https://github.com/user-attachments/assets/0e81dbda-a47a-4b50-9bf0-4f172978b197" />
